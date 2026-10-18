@@ -1,0 +1,22 @@
+# Build output
+*.exe
+*.dll
+*.pdb
+*.obj
+bin/
+obj/
+
+# Windows user files & cache
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.tmp
+*.log
+
+# Cache directories
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
